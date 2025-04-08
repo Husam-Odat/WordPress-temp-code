@@ -13,7 +13,7 @@ This is a custom WordPress blog project set up locally (e.g., on `http://localho
 - Easy-to-use admin dashboard (WordPress built-in)
 
 ## 🗂️ Project Structure
-
+<pre>
 wp/ ├── proj01/ 
     │ ├── wp-admin/ # WordPress admin backend 
     │ ├── wp-content/
@@ -26,7 +26,7 @@ wp/ ├── proj01/
     │ │ │ └── functions.php 
     │ │ └── plugins/ 
     │ └── wp-includes/
-
+</pre>
 
 ## 🚀 Installation Instructions
 
